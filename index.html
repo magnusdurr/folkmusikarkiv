@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ABC TuneBook editor</title>
+
+    <link rel="preconnect" href="https://cdn.jsdelivr.net">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" rel="stylesheet">
+
+    <script src="./script/abcjs-basic-min.js" type="text/javascript"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+    <script>
+        var tuneBook
+        var tuneBookAbc
+
+        var renderedNotes
+        var midiBuffer
+
+        var selectedFiddler
+
+        function loadFiddlerInfo() {
+            if (selectedFiddler)
+                $("#paper").removeClass("d-none").load(`./info/${selectedFiddler}.html`, function (responseText, textStatus, XMLHttpRequest) {
+                    if (textStatus == "error") {
+                        $("#paper").empty()
+                    }
+                })
+        }
+
+        function loadTuneBook(fiddler, title) {
+            document.getElementById("book-title").innerText = title
+
+            var client = new XMLHttpRequest();
+            client.open('GET', `./music/${fiddler}.abc`);
+            client.onreadystatechange = function () {
+                tuneBookAbc = client.responseText;
+                tuneBook = new ABCJS.TuneBook(tuneBookAbc)
+                selectedFiddler = fiddler
+                console.log(tuneBook)
+
+                const tuneIndex = document.getElementById("tune-index")
+                tuneIndex.innerHTML = "";
+
+                $("#start-info").addClass("d-none")
+                $("#fiddler-info").removeClass("d-none")
+                $("#paper").removeClass("d-none").load(`./info/${fiddler}.html`, function (responseText, textStatus, XMLHttpRequest) {
+                    if (textStatus == "error") {
+                        $("#paper").empty()
+                    }
+                })
+                $("#song-extra").empty()
+
+                tuneBook.tunes.forEach(function (element, index, array) {
+                    const tune = document.createElement("a")
+                    tune.innerText = element.title
+                    tune.setAttribute('class', 'list-group-item list-group-item-action')
+                    tune.setAttribute('href', '#')
+                    tune.addEventListener('click', function () {
+                        renderedNotes = ABCJS.renderAbc("paper", element.abc, {
+                            responsive: 'resize',
+                            add_classes: true
+                        })[0];
+                        $("#song-extra").load(`./info/song/${element.id}.html`, function (responseText, textStatus, XMLHttpRequest) {
+                            if (textStatus == "error") {
+                                $("#song-extra").empty()
+                            }
+                        })
+                    })
+
+                    tuneIndex.appendChild(tune)
+                })
+            }
+            client.send();
+        }
+
+        function stop() {
+            if (midiBuffer) {
+                midiBuffer.stop();
+                midiBuffer = null
+            }
+        }
+
+        function play() {
+            if (ABCJS.synth.supportsAudio()) {
+                stop()
+
+                window.AudioContext = window.AudioContext ||
+                    window.webkitAudioContext ||
+                    navigator.mozAudioContext ||
+                    navigator.msAudioContext;
+
+                var audioContext = new window.AudioContext();
+
+                audioContext.resume().then(function () {
+                    midiBuffer = new ABCJS.synth.CreateSynth();
+
+                    // midiBuffer.init preloads and caches all the notes needed. There may be significant network traffic here.
+                    return midiBuffer.init({
+                        visualObj: renderedNotes,
+                        audioContext: audioContext,
+                        millisecondsPerMeasure: renderedNotes.millisecondsPerMeasure()
+                    }).then(function (response) {
+                        console.log("Notes loaded: ", response)
+                        midiBuffer.prime();
+                        midiBuffer.start();
+                        return Promise.resolve();
+                    }).catch(function (error) {
+                        if (error.status === "NotSupported") {
+                            console.warn("NotSupported")
+                        } else
+                            console.warn("synth error", error);
+                    });
+                });
+            } else {
+                console.warn("Supports audio = false")
+            }
+        }
+
+        // function displayContents(contents) {
+        //   var element = document.getElementById('file-content');
+        //   element.textContent = contents;
+        // }
+
+        window.addEventListener("DOMContentLoaded", (event) => {
+            document.getElementById('file-input').addEventListener('change', readSingleFile, false);
+        });
+    </script>
+</head>
+
+<body class="bg-light">
+
+<section class="container">
+    <nav class="navbar navbar-expand-lg bg-primary" data-bs-theme="dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#" id="info-start"><i class="bi bi-music-note-beamed"></i> Olof Anderssons
+                uppteckningar</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                           aria-expanded="false">
+                            Volym I
+                        </a>
+                        <ul class="dropdown-menu">
+                            <!--
+                            <li><h6 class="dropdown-header">Österåker</h6></li>
+                            <li>
+                                <a class="dropdown-item disabled" href="#">
+                                    Ernst Persson, Hulla #1-4
+                                </a>
+                                <a class="dropdown-item disabled" href="#">Johan Teller, Skogbokvarn #5-19</a>
+                            </li>
+                            <li><h6 class="dropdown-header">Västra Vingåker</h6></li>
+                            <a class="dropdown-item disabled" href="#">Adolf Källström, Mårjanå #20-24</a>
+                            <a class="dropdown-item disabled" href="#">Vilhelm Löthman, Vadsborg #25-30</a>
+                            <a class="dropdown-item disabled" href="#">Axel Wester. Nr 31-51</a>
+                            <a class="dropdown-item disabled" href="#">Albert Gustafsson, Svenstorp. Nr 52-58</a>
+                            <a class="dropdown-item disabled" href="#">Evald Larsson. Nr 59-62</a>
+                            <a class="dropdown-item disabled" href="#">Erik Arvid Johansson, Berga. Nr 63-66</a>
+                            <li><h6 class="dropdown-header">Östra Vingåker</h6></li>
+                            -->
+                            <li><h6 class="dropdown-header">Floda</h6></li>
+                            <li>
+                                <a class="dropdown-item" href="#"
+                                   onclick="loadTuneBook('kgaxelsson', 'Karl Gustaf Axelsson, Floda')">
+                                    Carl Gustaf Axelsson, Flodafors #119-135
+                                </a>
+                            </li>
+                            <!--
+                            <li><h6 class="dropdown-header">Blacksta</h6></li>
+                            <li><h6 class="dropdown-header">Vadsbro</h6></li>
+                            <li><h6 class="dropdown-header">Björkvik</h6></li>
+                            <li><h6 class="dropdown-header">Lerbo</h6></li>
+                            <li><h6 class="dropdown-header">Flen</h6></li>
+                            <li><h6 class="dropdown-header">Lilla Mellösa</h6></li>
+                            -->
+                        </ul>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                           aria-expanded="false">
+                            Volym II
+                        </a>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                           aria-expanded="false">
+                            Volym III
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><h6 class="dropdown-header">Husby</h6></li>
+                            <li>
+                                <a class="dropdown-item" href="#"
+                                   onclick="loadTuneBook('mandersson', 'Melker Andersson, Östtorp')">
+                                    Axel Axelsson, Östtorp #480-534
+                                </a>
+                            </li>
+
+                            <li><h6 class="dropdown-header">Mörkö</h6></li>
+                            <li>
+                                <a class="dropdown-item" href="#"
+                                   onclick="loadTuneBook('agandersson', 'Anders Gustaf Andersson, Mörkö')">
+                                    Anders Gustaf Andersson, Mörkö #639-664
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                           aria-expanded="false">
+                            Volym IV
+                        </a>
+                    </li>
+                </ul>
+
+                <!--
+                <form class="d-flex" role="search">
+                    <input class="form-control" type="file" id="file-input" placeholder="*.abc">
+                </form>
+                -->
+            </div>
+        </div>
+    </nav>
+
+    <div class="row d-none" id="fiddler-info">
+        <div class="col-sm-3 mb-5">
+            <div class="list-group mt-3" id="tune-index"></div>
+        </div>
+
+        <div class="col-sm-9">
+            <div class="row mt-3">
+                <div class="col-lg-8">
+                    <button type="button" class="btn btn-primary me-1" onclick="loadFiddlerInfo()"><i
+                            class="bi bi-info-circle"></i></button>
+                    <span class="h3 align-middle" id="book-title">Select music...</span>
+                </div>
+                <div class="col-lg-4 text-end">
+                    <button type="button" class="btn btn-primary" onclick="play()"><i class="bi bi-play-fill"></i>
+                    </button>
+                    <button type="button" class="btn btn-primary" onclick="stop()"><i class="bi bi-stop-fill"></i>
+                    </button>
+                    <button type="button" class="btn btn-primary" onclick="alert('TODO')"><i
+                            class="bi bi-printer-fill"></i></button>
+                    <button type="button" class="btn btn-primary" onclick="alert('TODO')"><i
+                            class="bi bi-pencil-fill"></i></button>
+                </div>
+            </div>
+            <div id="paper"></div>
+            <div id="song-extra" class="mt-3"></div>
+        </div>
+    </div>
+
+    <div class="" id="start-info"></div>
+
+    <script>
+        $(document).ready(function () {
+            $("#info-start").on("click", function () {
+                $("#start-info").removeClass("d-none").load("./info/oandersson.html");
+                $("#fiddler-info").addClass("d-none")
+            });
+
+            $("#start-info").removeClass("d-none").load("./info/oandersson.html");
+        });
+    </script>
+</section>
+
+</body>
+</html>

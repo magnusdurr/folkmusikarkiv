@@ -1,46 +1,36 @@
 X:639
-R:Slängpolska
 T: Polska # 639
 M:3/4
 L:1/16
 K:D
 Q:110
-| E2DE A,4 C2E2 | E2FE D4 F2A2 | A2Bc d2f2 e2d2 |1 cdcB ABAG FDF2 :|2 cec2 d8 |]
-|:[K: Dmin] fefg a4 f2a2 |[K: F] g2e2 c2e2 g2e2 | f2gf e2fe d2ed | ^c2Ac d8 :|
+|:{EF} E2DE A,4 C2E2 | E2FE D4 F2A2 | A2Bc (d2f2) e2d2 | (cd)cB ABAG (FDF2)
+|{EF} E2DE A,4 C2E2 | E2FE D4 F2A2 | A2Bc (d2f2) e2d2 | cec2 d8 :|
+|:[K: Dmin] {fg}(fefg) a4 f2a2 | g2e2 c2e2 g2e2 | {fg}(fefg) a4 f2a2
+|g2e2 c2e2 g2e2 | f2gf e2fe d2ed | ^c2Ac d8 :|
 
 X: 640
 T: Polska # 640
 M: 3/4
 L: 1/16
-R: Slängpolska
 K: D
 Q: 120
-|:D4 F2DF A2FA| d2A2 G2F2 E2D2|A3d c2Ac e2ce | a2e2 d2c2 B2A2 | A2ce (3a2e2d2 (3c2B2A2 |1 E2^GB A4 A,4:|2 E2^GB A4 z4|]
-|: A4 A2(B2 c2)(d2 | e2)f2 [Ag]8 | (agfg a2)g2 {ag}  f2e2 | d2f2 e2d2 (cd)cB | A2(A2 B2)(B2 c2)c2 | (dc)Bc d8 :|
+|:D4 F2DF A2FA| d2A2 G2F2 E2D2|A3d c2Ac e2ce | a2e2 d2c2 B2A2 |
+ A2ce (3a2e2d2 (3c2B2A2 |1 E2^GB A4 A,4:|2 E2^GB A4 z4|: A4 A2(B2 c2)(d2 | e2)f2 [Ag]8 |
+ (agfg a2)g2 {a}  f2e2 | d2f2 e2d2 (cd)cB | A2(A2 B2)(B2 c2)c2 | (dc)Bc d8 :|
 
 X:641
 T:Polska # 641
-S:efter Anders Gustaf Andersson
-B:Sörmlands musikarkiv - Anders Gustaf Andersson, nr 641
-O:Mörkö, Södermanland
-R:Slängpolska
-N:"Jfr Axelsson n:r 508"
 M:3/4
 L:1/16
 K:Ddor
 Q:110
-(A2d2) (d2^c2) (d2e2) | (fefg) a2(fg f2)e2 | "^\#"c2d2 "^\#"c2B2 G2A2 |1 B2cB A4 A,4 :|2 B2cB A8 |:
-K:D
-D2>F2 A4 =c2B2 | (B2cB) A4 F4 | F2GF E2E2 C2E2 | E2FE D2D2 A,4 |
+(A2d2) (d2^c2) (d2e2) | (fefg) a2(fg f2)e2 | ^/c2d2 ^/c2B2 G2A2 |1 B2^/cB A4 A,4 :|2 B2^/cB A8 |]
+|:[K:Dmaj] D2>F2 A4 =c2B2 | (B2cB) A4 F4 | F2GF E2E2 C2E2 | E2FE D2D2 A,4 |
 D2>F2 A4 =c2B2 | (B2cB) A4 F4 | A2Bc d2e2 f2g2 | ((3efe)c2 d8 :|
 
 X:642
 T:Polska # 642
-S:efter Anders Gustaf Andersson
-B:Sörmlands musikarkiv - Anders Gustaf Andersson, Nora (pdf), nr 642
-O:Mörkö, Södermanland
-R:Slängpolska
-Z:Nils L
 M:3/4
 L:1/16
 K:Ddor
@@ -52,10 +42,6 @@ f>gfe f2a2 f2d2 | efed e2g2 e2^c2 | d2^c2 d2e2 f2g2 | a2^ce d8 :|
 
 X:643
 T:Polska # 643
-S:efter Anders Gustaf Andersson
-B:Sörmlands musikarkiv - Anders Gustaf Andersson, Nora (pdf), nr 643
-O:Mörkö, Södermanland
-R:Slängpolska
 M:3/4
 L:1/16
 K:F
@@ -68,10 +54,6 @@ F3A c2e2 (fefg | a2)a2 (ga)ge f2f2 | d2Bd c2Ac B2(B2{cB}) | (cB)AB G4F4 :|
 
 X:644
 T:Polska # 644
-S:efter Anders Gustaf Andersson
-B:Sörmlands musikarkiv - Anders Gustaf Andersson, Nora (pdf), nr 644
-O:Mörkö, Södermanland
-R:Slängpolska
 M:3/4
 L:1/16
 K:C
@@ -81,10 +63,6 @@ c3e g2ag ^f2d2 | B2d2 d2ed B2G2 | c3e g2ag ^f2d2 | B2d2 d2ed B2G2 | G2G2 c2c2 e2
 
 X:645
 T:Polska # 645
-S:efter Anders Gustaf Andersson
-B:Sörmlands musikarkiv - Anders Gustaf Andersson, Nora (pdf), nr 645
-O:Mörkö, Södermanland
-R:Slängpolska
 M:3/4
 L:1/16
 K:D
@@ -96,10 +74,6 @@ a2ff f2a2 (ba)gf | g2ee e2g2 agfe | f2dd d2ef gfed | d2cc c2d2 d4 :|
 
 X:646
 T:Polska # 646
-S:efter Anders Gustaf Andersson
-B:Sörmlands musikarkiv - Anders Gustaf Andersson, Nora (pdf), nr 646
-O:Mörkö, Södermanland
-R:Slängpolska
 M:3/4
 L:1/16
 K:A
@@ -110,28 +84,20 @@ e2a2 a2{ba}fa f2d2 | d2f2 f2ef e2c2 | A2c2 efec d2B2 | G2BB B2{cB}A2 A4 :|
 
 X:647
 T:Brudmarsch # 647
-S:efter Anders Gustaf Andersson
-B:Sörmlands musikarkiv - Anders Gustaf Andersson, Nora (pdf), nr 647
-O:Mörkö, Södermanland
-R:Brudmarsch
 M:4/4
 L:1/8
 K:D
 Q:160
-DEFG |: A4 A3 B | A4 B2c2 |d4 e3 f | g4 f2gf | e2f2g2b2 | (ga)gf e2d2|
+DEFG | A4 A3 B | A4 B2c2 |d4 e3 f | g4 f2gf | e2f2g2b2 | (ga)gf e2d2|
 c2 A2B2c2 | e2 dd d2d2 | d2 (FE) (DEFG) | A4 A3 B | A4 B2c2 |d4 e3 f | g4 f2gf | e2f2g2b2 |
-gagf e2d2| c2 A2B2c2 | e2 dd d2d2 | d4 :| f2d2 | B4B2d2| c4e2c2| A2 dd d2 e2 | (f2gf) e2d2|
+(ga)gf e2d2| c2 A2B2c2 | e2 dd d2d2 | d4 :| f2d2 | B4B2d2| c4e2c2| A2 dd d2 e2 | (f2gf) e2d2|
 c4e2d2 | B4d2B2 | A2 aa a2 aa| f2d2d2f2 | abag aba2 | f2d2d2 (3efg| a2f2e2d2 | A2F2D2F2|
-A4 A3B| A4B3c| d4e2f2| g4f2gf| e2f2g2b2| (ga)gf e2d2| c2A2B2c2| e2ddd2d2| d4|
-[K:G] b6fg| a2g2f2e2| d6AB| c2d2e2B2| [c6E] (3BcB| A2e2d2c2| B6GB | d2d2e2f2g2a2 |
-b6fg| a2g2f2e2| d2g2B2d2| c2B2A2F2| G2ggg2g2| g4 :|
+A4 A3B| A4B3c| d4e2f2| g4f2gf| e2f2g2b2| (ga)gf e2d2| c2A2B2c2| e2ddd2d2|1 d4:|2 d6 ga |]
+|:[K:G] b6(fg| a2)g2f2{gf}e2| d6AB| c2d2e2B2| [c6E] (3BcB| A2e2d2c2| B6GB | d2d2e2f2g2a2 |
+b6fg| a2g2f2e2| d2g2B2d2| c2B2A2F2| G2ggg2g2|1 g6 ga |2 g4 :|
 
 X:648
 T:Brudmarsch # 648
-S:efter Anders Gustaf Andersson
-B:Sörmlands musikarkiv - Anders Gustaf Andersson, Nora (pdf), nr 648
-O:Mörkö, Södermanland
-R:Brudmarsch
 M:1/4
 L:1/16
 K:D
@@ -147,10 +113,6 @@ f2{gf} (ef) g2f2 | (a2g2) (b2g2) | (a2g2) (b2g2) | [f4A4] efec | d8:|
 
 X:649
 T:Polska # 649
-S:efter Anders Gustaf Andersson
-B:Sörmlands musikarkiv - Anders Gustaf Andersson, Nora, nr 649
-O:Mörkö, Södermanland
-R:Slängpolska
 M:3/4
 L:1/16
 K:Ddor
@@ -158,17 +120,9 @@ Q:110
 a2e2 f2e2 f2g2 | a2fa g4 e4 | {fg}f2e2 d2^c2 d2e2 | f2e2 ^/cdcB !fermata!A4 ::
 A2D2 F2A2 c2B2 | G2EG ^/F2{GF}DF E2E2 | A2D2 F2A2 c2B2 | G2EG ^/F2{GF}DF E2E2 |
 DE^FG A2B^c d2e^f | g^fed ^c2ec d4 :|
-W: "Lille Lasse skulle gå vall med korna;
-W: bara smutsen satt emellan tårna."
 
 X:650
 T:Polska # 650
-S:efter Anders Gustaf Andersson
-B:Sörmlands musikarkiv - Olof Anderssons uppteckningar 1936, nr 650
-O:Mörkö, Södermanland
-R:Slängpolska
-N:När klockare Andersson spelade denna polska blev han så rörd att han fällde
-N:tårar. "Denna spelades på mitt bröllop" sade han.
 M:3/4
 L:1/16
 Q:110
@@ -181,60 +135,38 @@ e4 e2f2 e4 | d2f2 e2d2 c2B2 | A2c2 B2A2 ^G2^F2 |1 ^G2BG A8 :|2 ^G2BG A6 |]
 
 X:651
 T:Polska # 651
-S:efter Anders Gustaf Andersson
-B:Sörmlands musikarkiv - Olof Anderssons uppteckningar 1936, nr 651
-W: Text: skinnbyxor med luckor; innanför sitter ku ku
-O:Mörkö, Södermanland
-R:Hamburska
 M:3/4
 L:1/16
 Q:120
 K:D
-A2| f4 f3e f2g2 | f3a a8| baga b2a2 g2f2 |g4 e8| e4e2d2 e3f|
-f3g [g8B] | g2fg a2g2 f2e2| f4d8:| c2e2 A8 | a4A6d2| c2e2 A8|
-a4 A8 | d2f2 a2f2 g2e2 | f4d8 :| e3f e3d e3f | g4b4a4 | g3a g3f e3f |
-d4B8 | g4 g3f f3e | e3d d2c2 c4 | c3d c3B c3d | e4A8 :|
+A2| f4 {fg}f3(e f2)g2 | f3a a8| (baga) b2(a2 g2)f2 |g4 e8| e4 {f}e2(d2 e3)f|
+(f3g) [g8B] | g2{ag} (fg a2)g2 f2e2|1 (f4{gf}) d6:|2 f4 d8 |: c2e2 A8 | a4A6(d2| c2)e2 A8|
+a4 A8 | d2(f2 a2)(f2 g2)e2 | f4d8 :| e3(f e3)(d e3)f | g4b6 (a2 | g3)(a g3)f e3f |
+d4B8 | g4 {ga}(g3f) f3e | e3d (d2c2) c4 | c3d c3B c3d |1 e4A8:|2 e4 A6 |]
 
 X:652
 T:Polska # 652
-S:efter Anders Gustaf Andersson
-B:Sörmlands musikarkiv - Olof Anderssons uppteckningar 1936, nr 652
-W:Fittor i fittor i fall, det är flickornas trall
-W:när som de skulle gå vall med korna.
-W:Och går de inte dit så slår de till en skit
-W:så det skallrar mellan låra.
-O:Mörkö, Södermanland
-R:Slängpolska
 M:3/4
 L:1/16
 Q:120
 K:G
-gagf g2bg d2gd | BcBA B2dB G2BG | G3B d3g b3g | g2fg agfe d4 | gagf g2bg d2gd |
-BcBA B2dB G2BG | G3B d3g b3g | agfg a4g4 :| [f2A] z2 [f2A] z2 f2ef | g2bg d2gd B2AG |
-[f2A] z2 [f2A] z2 f2ef | [g2BD] z2 [g2BD] z2 [g2BD] z2 :|
+(g3/2a/2gf) g2bg d2gd | (B3/2c/2BA) B2dB G2BG | G3B d3g b3g | (g2{ag})fg (ag)fe d4 | (g3/2a/2gf) g2bg d2gd |
+(B3/2c/2BA) B2dB G2BG | G3B d3g b3g | (ag)fg a4g4 :| [f2A] z2 [f2A] z2 (f2{gf})ef | g2bg d2gd B2{cB}AG |
+[f2A] z2 [f2A] z2 (f2{gf})ef | [g2BD] z2 [g2BD] z2 [g2BD] z2 :|
 
 X:653
 T:Vals # 653
-S:efter Anders Gustaf Andersson
-B:Sörmlands musikarkiv - Olof Anderssons uppteckningar 1936, nr 653
-O:Mörkö, Södermanland
-R:Vals
 M:3/4
 L:1/8
 Q:160
 K:G
-D2 GF GA | B2G2D2 | GB dG Bd | g4d2 | ed cB AG | GF FF F2 | DE FG AB |
-c2 (3BcB A2 | GF GA BG | D4D2:| DF AB c2 | BA GA B2| AF AB c2 |
-Bd GB d2| d2Bd ge| ed dB G2| FG AD EF| G4z2 :| d2Bd BG |
+D2 G(F G)A | B2G2D2 | G(B d)(G B)d | g4d2 | e(d c)(B A)G | (GF) FF F2 | D(E F)(G A)B |
+c2 (3(BcB) A2 | GF GA BG | D4D2:| (DF) AB c2 | (B{cB})A GA B2| AF AB c2 |
+Bd GB d2| d2Bd ge| (ed) dB G2| (FG) AD EF| G4z2 :| d2(Bd) BG |
 D2 GB d2 | dB cA FA | DF AB c2 | Bd BG D2 | DG Bc dB | cd ec AF | G4 z2:|
 
 X:654
 T:Polska # 654
-S:efter Anders Gustaf Andersson
-B:Sörmlands musikarkiv - Anders Gustaf Andersson, Nora (pdf), nr 654
-O:Mörkö, Södermanland
-R:Hamburska
-N: https://www.youtube.com/watch?v=3w_axY2SedM
 M:3/4
 L:1/16
 K:D
@@ -245,10 +177,6 @@ e4 (E2e2) (E2e2) | c3(d c2)A2 B2c2 | c2d2 d8 :|: A4 {fg}f2e2 f2(g2| a4) g2{ag}f2
 
 X:655
 T:Polska # 655
-S:efter Anders Gustaf Andersson
-B:Sörmlands musikarkiv - Anders Gustaf Andersson, Nora, nr 655
-O:Mörkö, Södermanland
-R:Slängpolska
 M:3/4
 L:1/16
 K:Em
@@ -261,13 +189,8 @@ e2c2 c2e2 (eg)ec | d2B2 B2d2 d2(ef) | g4 G2>A2 G2(ef | g4) G8 :|
 
 X:656
 T:Polska # 656
-S:efter Anders Gustaf Andersson
-B:Sörmlands musikarkiv - Anders Gustaf Andersson, Nora, nr 656
-O:Mörkö, Södermanland
-R:Slängpolska
 M:3/4
 L:1/16
-N:Den sista bågen är litet svårt att se var den slutar i originalet.
 Q:110
 K:G
 G2>B2 A2>c2 B2>c2 | d2>d2 B2dB G4 | c2e2 e2(cd c)Bc2 | B2d2 d2(Bc B)AB2 |
@@ -277,45 +200,26 @@ g4 (egec) d2d2 | c2c2 B2cB A4 | G2AB c2Ac B2GB | A2FA G8 :|
 
 X:657
 T:Polska # 657
-T:"Pastor Per"
-S:efter Anders Gustaf Andersson
-B:Sörmlands musikarkiv - Anders Gustaf Andersson, Nora, nr 657
-O:Mörkö, Södermanland
-R:Slängpolska
-N:"Polskan gick under namnet 'Pastor Per'. Det melodiska motivet visar släktskap med en del Dalapolskor".
 M:3/4
 L:1/16
 Q:110
 K:Ddor
-A4 (a2g2) a2e2 | (fefg) a2g2 a2e2 | (fefg) a2f2 d2d2 |1 ^c2 c2 A8 :|2 ^c2 c2 A6 |:
+A4 (a2g2) a2e2 | (fefg) a2g2 a2e2 | (fefg) a2f2 d2d2 |1 ^c2 c2 A8 :|2 ^c2 c2 A6 |]
 w: | | | Pas-tor Per Pas-tor Per
-(f2 | e2>)^c2 A2Bc d2>(f2 | e2>)^c2 A2Bc d2(f2 | e2>)^c2 A2Bc d2 f2 |1 e2 ^c2 d6 :|2 e2 ^c2 d8 |]
-w: | | | * * * * * * han dan-sar där. dan-sar där.
+|:(f2 | e2>)^c2 A2Bc d2>(f2 | e2>)^c2 A2Bc d2(f2 | e2>)^c2 A2Bc d2 f2 |1 e2 ^c2 d6 :|2 e2 ^c2 d8 |]
+w: | | | | * * * * * * han dan-sar där. dan-sar där.
 
 X:658
 T:Polska # 658
-S:efter Anders Gustaf Andersson
-B:Sörmlands musikarkiv - Olof Anderssons uppteckningar 1936, nr 658
-O:Mörkö, Södermanland
-N: Text: En gång så skjutsa jag en tiggarflicka, från Stockholm till Telje sand. och hela natten så kände jag patten, etc.
-N: Resten fick Andersson ej höra då han ansågs för ung.
-R:Slängpolska
-Z:Nils L
 M:3/4
 L:1/16
 Q:120
 K:D
 A3d f3e d3c| B3c d4F4 | G3F E3F G3A | B2cB A8 :| A3c e4 e3c |
-A3A d4 f3a | a2fa g2e2 c2d2 | efef d2f2 a4| a2fa g2e2 c2d2 | efef d8 :|]
+A3A d4 f3a | (a2fa) g2e2 c2d2 | (efef) d2f2 a4| a2fa g2e2 c2d2 | (efef) d8 :|]
 
 X:659
 T:Polska # 659
-S:efter Anders Gustaf Andersson
-B:SÃ¶rmlands musikarkiv - Anders Gustaf Andersson, Nora, nr 659
-O:MÃ¶rkÃ¶, SÃ¶dermanland
-R:Slängpolska
-N:YouTube-klipp och Audio-klipp med gruppen [[Grupper/Tradpunkt]].
-Z:Nils L
 M:3/4
 L:1/16
 U:t=tenuto
@@ -329,10 +233,6 @@ B,2CB, A,2B,A, G,4 | {DEF}G4 c2(B2 A2)G2 | F2AF G8 :|
 
 X:660
 T:Vals # 660
-S:efter Anders Gustaf Andersson
-B:Sörmlands musikarkiv - Olof Anderssons uppteckningar 1936, nr 660
-O:Mörkö, Södermanland
-R:Vals
 M:3/4
 L:1/8
 Q:160
@@ -343,43 +243,28 @@ c2 (eg) bg| f2z2 ef:| (bg) ec B2| (Ac) (fc) a2| c2 (eg) bg| fe fg af|
 
 X:661
 T:Vals # 661
-S:efter Anders Gustaf Andersson
-B:Sörmlands musikarkiv - Olof Anderssons uppteckningar 1936, nr 661
-O:Mörkö, Södermanland
-N: Jfr n:r 28, 56, 120 och 532.
-R:Vals
 M:3/4
 L:1/8
 Q:160
 K:G
-(G|:G2)B2d2| g4g2| (fg) ag fg| e4d2| (cd) ed cB| (AB) cB AG| FE D2 EF|
+(G2|G2)B2d2| g4g2| (fg) ag fg| e4d2| (cd) ed cB| (AB) cB AG| FE D2 EF|
 G2 (GA) cd| B2d2 [D2G,2]| g4g2| (fg) ag fg|e4d2| (cd) ed cB| (AB) cB AG|
- FE D2 EF| G4z2 :| d2 gg gb| d2 gg gb| ba aa a2| d2ff (fa)| d2 ff (fa)|
+ FE D2 EF| G4 :| (d2 | d2) gg gb| d2 gg gb| ba aa a2| d2ff (fa)| d2 ff (fa)|
 (af) gg g2| d2 gg (gb)| d2gg (gb)| b2a2g2| d'4 d'd'|d'2c'2b2|c'3bc'2| e4f2|
-(fe) fb af| g4z2:|
+(fe) fb af| g4:|
 
 X:662
 T:Polska # 662
-S:efter Anders Gustaf Andersson
-B:Sörmlands musikarkiv - Anders Gustaf Andersson, Nora, nr 662
-O:Mörkö, Södermanland
-R:Slängpolska
 M:3/4
 L:1/8
-Q:100
+Q:120
 K:Am
 e>c A2 (cB) | [G2B2] A4 | A>c e2 (g^f) | d2 e4 ::
 e2 c>e c>e | a2 {^fg}f/e/f d2 | d2 B>G B>d | g2 {^fg}f/e/f e2 |
 e>c A2 (cB) | [G2B2] A4 :|
-W: Text: "Vi ska dansa med Sara,
-W: så länge träskorna vara", etc.
 
 X:663
 T:Polska # 663
-S:efter Anders Gustaf Andersson
-B:Sörmlands musikarkiv - Anders Gustaf Andersson, Nora, nr 663
-O:Mörkö, Södermanland
-R:Slängpolska
 M:3/4
 L:1/16
 Q:110
@@ -391,10 +276,6 @@ f2{g}e2 d2^c2 d2e2| f2ed ^c2ec d4:|
 
 X:664
 T:Vals # 664
-S:efter Anders Gustaf Andersson
-B:Sörmlands musikarkiv - Olof Anderssons uppteckningar 1936, nr 664
-O:Mörkö, Södermanland
-R:Vals
 M:3/4
 L:1/8
 Q:180

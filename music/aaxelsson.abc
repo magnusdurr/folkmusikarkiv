@@ -77,10 +77,10 @@ M:3/4
 L:1/16
 Q: 120
 K: D
-|: DFAd f2df a4 | gfed cdef g4 | gbge fafd e2f2 | gfec dAF2 D4|
-DFAd f2df a4 | gfed cdef g4 | gbge fafd e2f2 | gfed c2d2 d4 :|
-a2[DF]2 [DF]2a2 bagf | g2[EC]2 [EC]2g2 agfe | f2[AD]2 [AD]2f2 f2d2 | edcd edcB AGFE |
-DFAd f2df a4 | gfed cdef g4 | gbge fafd e2f2 | gfed c2d2 d4 :|
+|: DFAd f2df a4 | gfed (cd)ef g4 | (gb)ge (fa)fd e2f2 | gfec dAF2 D4|
+DFAd f2df a4 | gfed (cd)ef g4 | (gb)ge (fa)fd e2f2 | gfed c2d2 d4 :|
+a2[DF]2 [DF]2a2 (ba)gf | g2[EC]2 [EC]2g2 (ag)fe | f2[AD]2 [AD]2f2 f2d2 | edcd edcB AGFE |
+DFAd f2df a4 | gfed (cd)ef g4 | (gb)ge (fa)fd e2f2 | gfed c2d2 d4 :|
 
 X:497
 T:Polska # 497
@@ -88,10 +88,11 @@ Q: 120
 M:3/4
 L:1/16
 K: C
-|:G2GF E2EF G2G2 | A2A2 B2dB c4 | G4 f2d2 e2c2 | cBce dcBA GFEF
-| G2GF E2EF G2G2 | A2A2 B2dB c4 | G4 f2d2 e2c2 | edBd d4 c4 :|
-| ecGc ecGc e2e2 | dBGB dBGB f4 | ecGc ecGc e2e2 | dBGB dBGB f4
-| cBAB cBAB cBAB | cBAG A2G2 G4 | AFCF AFCF A2A2 | GECE
+|:G2GF E2EF G2G2 | A2A2 B2dB c4 | G4 (f2d2) e2c2 | cBce dcBA GFEF
+| G2GF E2EF G2G2 | A2A2 B2dB c4 | G4 (f2d2) e2c2 | edBd d4 c4 :|
+| ecGc ecGc e2e2 | dBGB dBGB d4 | ecGc ecGc e2e2 | dBGB dBGB d4
+| (cB)AB cBAB cBAB | (cB)AG A2G2 G4 | (AF)(CF) (AF)(CF) A2A2 | (GE)(CE) (GE)(CE) G4
+| (AF)(CF) (AF)(CF) A2A2 | (GE)(CE) (GE)(CE) G4 | G4 (f2e2) d2c2 | cBGB d4 c4 :|
 
 X:522
 T:Gånglåt # 522

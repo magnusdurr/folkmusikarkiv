@@ -1,10 +1,12 @@
 X:238
 T:Kadrilj #238
-O:Husby, Aspö, Södermanland
-R:Kadrilj
+T: efter Björkström
 M:2/4
 L:1/16
 K: F
 Q: 100
-AB |: cdcB A2f2 | c2f2 A2f2 | dedc B2f2 | d2f2 B2b2 | gagf e2g2 | c2g2 e2g2 |
-f2af e2ge | f8:|
+AB | cdcB A2f2 | c2f2 A2f2 | d_edc B2f2 | d2f2 B2b2 | gagf e2g2 | c2g2 e2g2 |
+f2af e2ge | f4 z2:: cd| (e2f2) (g2a2)| b6 a2| b2a2 g2f2| e2d2 c2B2| (A2c2) (f2A2)| (B2d2) (g2f2)|
+(e2c2) (d2e2)| f4 z2 :|[K:Bb] fe| d2F2 B2F2|d2F2 B2(gf)| e2F2 c2F2| e2F2 c2(gf)| d2F2 B2F2|
+d2F2 B2(gf)| e2F2 A2Ac| B4 z2 :: FG| (A2B2) (c2d2)| e4 (ed)(cB)| (Ac)gf (ed)cB|
+A6 (gf)| d2F2 B2F2| d2F2 B2(gf)| e2F2 A2(Ac)| B4 z2 :|

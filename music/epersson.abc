@@ -1,0 +1,46 @@
+X: 1
+T: Hambopolska # 1
+T: efter Johan Karlsson
+M: 3/4
+L: 1/16
+K: Gmaj
+Q: 160
+|: D3G G4 B4 | d4{ed} B3A B4 | D3G G4 B4 | d4{ed} B3A B4 | D3F F4 A4 | d4 f6 e2| e3d d4 c4
+| c4{dc} B3A B4 | D3G G4 B4 | d4{ed} B3A B4 | D3G G4 B4 | d4{ed} B3A B4 | D3F F4 A4 | d4 f6 e2|
+e3d d4 F3A| A3G G8 :: {gf}g4 B3A B3c | d4 G3F G4 | D4 G4 B3d| g3f e3^d e4
+|  {gf}g4 B3A B3c | d4 {GA}G3F G4 | D7/2F/2 F7/2A/2 A7/2c/2| f3e d3c d4 | {gf}g4 B3A B3c
+| d4 G3F G4 | G4 B3d d3g| g3f e8| e3^d e4 f4 | g4B8| (e2fe) d4 F3A A3G G8 :|
+
+X: 2
+T: Polska # 2
+T: efter Johan Karlsson
+M: 3/4
+L: 1/16
+K: Dmaj
+Q:120
+|: {g}f3{gf}e d4F4| (E3FE) D3F A3d| (cdcB A3)g f3e| e3d d3F A4 | {g}f3{gf}e d4F4|
+(E3FE) D3F A3d| (cdcB A3)g f3e| e3c d8  :: d4 g3b b3g | d4f3g a3A|  A4 c3d e3d|
+d4 f3g a3d| d4 g3b b3g | d4f3g a3A | A3c e3g f3e| e2(fe) d8:|
+
+X: 3
+T: Polska # 3
+T: efter Ingra Per Olsson
+M: 3/4
+L: 1/16
+K: Dmaj
+Q:120
+|: {g}f3{g}e f4 g3f| (f2gf) e4 A4 | {ef}e3d e4 f3e| e3c d4 A4 | {g}f3{g}e f4 g3f | f3e e2g2 b4| b3a a4 c3d|
+(e2fe) d8 :: {A}d3g b4 b3e|  c3e a7 (A|B3)c D4 d3A| F3A d6 d2 | d2ed c4 E3F| FG3 G8|
+e3d c3B A3G| F3G A6 A2| d3g b4 b3e| c3e a6 A2| c3e g3e B3c | (cd3) d8 :| (e2c2) d8||
+
+X: 4
+T: Polska # 4
+T: efter Johan Karlsson
+M: 3/4
+L: 1/16
+K: Dmaj
+Q:120
+|: D4 D3F A3d | f4 f3{gf}e (d4{ed)}| D4 D3F A3G| B4 B3{cB}A G3F| E4 E3A c3e| g4 g3f e3d| c4c3B A3G |
+(B2cB) A3G F4| D4 D3F A3d | f4 f3{gf}e (d4{ed)}| D4 D3F A3G| B4 B3{cB}A G3F| E4 E3A c3e| g4 g3f e3d|
+c3d c3A B3c | d4 d4 z4 :: {a}(g2ag) B6 (g2| (3f2g2f2) A6 d2| (cdcB) A4 B3c| d3c d3e f3a| (g2ag) B6 (g2|
+(3f2g2f2) A6 f2| e3d c3A B3c| d4 d4 z4 :|

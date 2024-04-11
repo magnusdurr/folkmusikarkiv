@@ -1,23 +1,21 @@
 X:131
 T: Anglais #131
-R:Anglais
-O:Floda, Södermanland
+T: efter Boström
 M:2/4
 L:1/16
 Q:110
 K: A
-e2 |: c'4 a2e2 | c2e2 a2c'2 | b2d'2 b2g2 | e2fg a4:: e2ee ecAc | d2dd dBGB |
-e2aa agaf | ecdB A4:|
+(e2 | c'4) a2e2 | c2e2 a2c'2 | b2d'2 b2g2 | e2fg a2 :: cd| e2ee ecAc | d2dd dBGB |
+e2aa agaf | ecdB A2:|
 
 X:132
 T: Anglais #132
-R:Anglais
-O:Floda, Södermanland
+T: efter Boström
 M:2/4
 L:1/16
 Q:110
 K: Bb
-DF |: B2GE cBAG | F2GA B2DF | B2GE cBAG | F2GA B4 :|
-|: Bcde f2fa | fedc B2B2 | BABc d2de | cBcd c4 |
-Bcde f2fa | fedc B2B2 | BABc d2dd| cBAc B4 :|
+DF |: B2GE cBAG | F2GA B2DF | B2GE cBAG | F2GA B4 :: (Bc)de f2fg |
+(fe)dc B2B2 | (BA)Bc d2de | (cB)cd c4 | (Bc)de f2fg | (fe)dc B2B2 | (BA)Bc d2dd|
+[1 (cB)Ac B4 :|[2 (cB)Ac B2|]
 

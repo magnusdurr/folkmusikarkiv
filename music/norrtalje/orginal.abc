@@ -1,0 +1,51 @@
+X: 1
+T: Menuette
+T: efter J.O. Löfvén
+M: 3/4
+L: 1/16
+K: Gmaj
+Q: 120
+[V:1]|: gfga g2G2 B2d2 | (cB)(ce) d2dc A2c2| B3d g3d b2g2| g2fg (ag)fe d4|
+[V:2]|: G,2B,D [DG]4 G2,B2| (AG)Ac [BD]3A F2A2| G3F E2c2 B2A2| (FE)DE [DC]4 [DB,]4|
+[V:1] gfga g2G2 B2d2 | (cB)(ce) d2dc A2c2| B3d g2e2 d2B2| (dc)Bc A4 G4:|
+[V:2]G,2B,D [DG]4 G2,B2| (AG)Ac [BD]3A F2Ac| G3F E3F G3B| B2AB c2A2 (FE)DC :|
+[V:1]|: d4 (Bd)(Bd) g2b2| c4 (Ac)(Ac) f2a2| g3f e2d2 c2B2| (dc)Bc A4 A2GF|
+[V:2]|: G,2B,D G3B B2G2| (AG)FE D2FA [cD]4| G3B (cd)cB (AB)AG | A2G2 F2E2 D2C2|
+[V:1] G2B2 d2g2 b2g2| d2dB (dc)Bc A2Ac| B3d g2e2 d2B2 | (dc)Bc A4 G4:|
+[V:2]B,2G,2 B,2D2 G2B2| B2BG (B,C)DE F4| G2F2 D2c2 B2G2| (FE)DE [CD]4 [DB,]4:|
+
+X: 2
+T: Polska
+T: efter J.O. Löfvén
+M: 3/4
+L: 1/16
+K: Bb
+Q: 120
+|: B,2B,A, B,2D2 F4| B2BA B2d2 f4| e2ed c2cB A2AG| FBAB cBAG FEDC|
+B,2B,A, B,2D2 F4| B2BA B2d2 f4| e2ed c2cB A2AG| FBAB c4 B4 ::  c2c=B c2cd e2cA|
+B2BA B2d2 f4|  c2c=B cBcd ecAF| B2BA Bcde f3f| g2g^f g2b2 B2b2|
+f2f=e f2b2 B2b2| g2g^f gfga b2b2| f2f=e fefa b2b2|  e3c d3B c2A2| FecA c4 B4:|
+
+X: 3
+T: Brännvinspolska
+T: efter August Karlsson, Rosersberg
+M: 3/4
+L: 1/16
+K: D
+Q: 120
+|: D4 F2F2 A2A2| d2d2 f2f2 a4| f2ef (ga)gf (ef)ed| (cd)cB (AB)AG F2E2|
+D4 F2F2 A2A2| d2d2 f2f2 a4| f2ef g2f2 e2d2| (fe)dc d4D4 :: (fg)fe d2d2 d2f2|
+a2e2 (ed)cB [EA]4| d2dc (Bc)BA B2c2| e2ed (cB)A^G [AE]4| (DF)(AF) (DF)(AF) (DF)(AF)|
+F2E2 E2E2 [EA,]4| (DF)(AF) (DF)(AF) (DF)(AF)| F2E2 E2E2 [EA,]4| D2EF G2(3ABc d2(3efg| (ag)ec d4 D4 :|
+
+X: 1
+T: Polska
+T: efter Johan Rydberg
+M: 3/4
+L: 1/16
+K: Dmin
+Q: 120
+A2=B^c|: d2D2 D2D2 D2fg| f2e2 A2A2 A4| fefg a2f2 e2d2| d2^cd e2c2 A2=Bc|
+d2D2 D2D2 D2fg| f2e2 A2A2 A4| fefg a2f2 e2d2|[1^cdec d4 A2=B^c:|
+[2^cdec d6 fg |: a4 (3f2g2a2 (3f2g2a2|
+...

@@ -24,6 +24,7 @@
 
         let tunesAbc
         let tuneBook
+        let synthControl
 
         function navigate(target) {
             menuItems.forEach(function (it) {
@@ -33,6 +34,7 @@
             target.addClass("active")
 
             const tunesDiv = $("#tunes")
+            tunesDiv.empty()
             $("#paper").empty()
             $("#paper-audio").empty()
 
@@ -43,19 +45,21 @@
                 tuneBook.tunes.forEach(function (element, index, array) {
                     tunesDiv.append(`<button type="button" class="btn btn-outline-secondary m-1 btn-sm" onclick="loadTune(${index})">${element.title}</button>`);
                 })
-            }).fail(function () {
-                tunesDiv.empty()
-            });
+            })
         }
 
         function loadTune(index) {
             const visualObj = ABCJS.renderAbc("paper", tunesAbc, {startingTune: index, responsive: 'resize'})[0];
-            let synthControl
+
+            if (synthControl) {
+                synthControl.pause()
+                synthControl.destroy()
+            }
 
             if (ABCJS.synth.supportsAudio()) {
                 synthControl = new ABCJS.synth.SynthController();
                 synthControl.load("#paper-audio", null, {
-                    displayLoop: true,
+                    displayLoop: false,
                     displayRestart: true,
                     displayPlay: true,
                     displayProgress: true,
@@ -65,9 +69,9 @@
                 alert("Audio not supported")
             }
 
-            const midiBuffer = new ABCJS.synth.CreateSynth();
+            let midiBuffer = new ABCJS.synth.CreateSynth();
             midiBuffer.init({visualObj: visualObj})
-                .then(function (response) {
+                .then(function () {
                     if (synthControl) {
                         synthControl.setTune(visualObj, false)
                             .catch(function (error) {

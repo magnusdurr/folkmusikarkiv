@@ -1,0 +1,77 @@
+X:665
+T:Brudmarsch # 665
+T:från Sorunda
+M:2/4
+L:1/8
+Q:90
+K:D
+Ad dd| de fd| c(A/B/ A)A| A3A{BA}|BG/G/ GG|B2d2|AB AG|
+Fd AG|FG EC|E(D/E/ D)D| D2z2:: AA/A/ AA/A/|Ad/f/ aa|AA/A/ AA/A/|Ad/f/ aa|
+ba/g/ ee/e/| gf/e/ dc/B/|Ac/e/ ac|[dF]2 z2:: ff ff| f/e/d/c/ B2|
+ee ee| e/d/c/B/ A2|AF/A/ dd|BG/B/ ee|cA/c/ ac|[dF]2z2:|
+
+X:666
+T:Brudmarsch # 666
+T:från Sorunda
+M:2/4
+L:1/16
+Q:90
+K:D
+A2d2 A2F2|D4D2D2|B2(Bc) B2G2|E4E2E2|e2ef e2c2| A4B2c2|d3d d2d2|
+d2A2 F2A2|A2d2 A2F2| D4 D2D2| B2(Bc) B2G2|E4E2E2|e2ef e2c2|A4B2(c2|
+c2)de d2d2|1[dF]4z4:|2[dF]4z2|:((3efg|a2)a2 g2f2| e4e2g2|b2b2 g2{ag}e2| d4d2f2|
+a2a2 g2f2|e4e2g2|b2b2  g2{ag}e2| d4d2d2| d2e2 f2d2| A3A A2A2|A4g2f2|e3e e2c2|
+A4B2c2|c2dd d2d2|1[dF]4 z2:|2[dF]4 z4||
+
+X:667
+T:Vals # 667
+M:3/4
+L:1/8
+Q:160
+K:D
+A2d2d2|d2cde2|A2c2e2|e2def2|A2d2f2|f2efg2|A2B2c2|d4z2:|
+|:d2f2a2|a2gab2|efg2g2|g2{ag} fga2|A2d2f2|f2{gf} ef g2|A2B2c2|d4z2:|
+
+X:668
+T:Vals # 668
+M:3/4
+L:1/8
+Q:180
+K:A
+e4{fg}f2|e2c2Ac|e2ed cB|A2cea2|e4{fg}f2|e2c2Ac|e2ed cB|
+|1A4z2:|2A4E2|: A2A2B2|c2cBA2|B2BAG2|A2AFE2|A2A2B2|
+c2cBA2|B2BAG2|1A4E2:|2A4z2||
+"@-75,60 Valsen spelades med följande förstämning:"[A,EAe]
+
+X:669
+T:Vals # 669
+M:3/4
+L:1/4
+Q:180
+K:G
+GBd|GBd|gBd|GBB|(DF)A|(DF)A|edc|c{dc}B/c/ B/A/|
+GBd|GBd|gBd|GBB|(DF)A|(DF)A|f2f|f3/e/ c/A/|GzG|
+G2z:|d/B/GG/B/|d/B/GG/B/|g2f|f{gf}ee|e/c/AA|e/c/AA| f2e|
+edd|d/B/GG|d/B/GG/B/|g2f|f{gf}ee|e/c/AA|e/c/AA|fzf|
+f3/e/ c/A/|Gzg|gzz:|
+
+X:670
+T:Vals # 670
+M:3/4
+L:1/8
+Q:180
+K:D
+A3A(A2|A2)B2c2|d3d(d2|d2)f2a2|g2f2e2|d2c2B2|A3d fe|d2F2G2|
+A3A(A2|A2)B2c2|d3d(d2|d2)f2a2|g2f2e2|d2c2B2|A3d fe|d4z2:|
+|:(g6|g2){ag}f2e2|(d6|d2)(FA)d2|c6|c2{dc}B2c2|d6|d2f2a2|(g6|g2){ag}f2e2|
+(d6|d2)(FA)d2|c4A2|{fg}f4e2|d4dd|d4z2:|
+
+X:671
+T:Polska # 671
+M:3/4
+L:1/16
+Q:120
+K:D
+A3B A3G F3G|A3df4f4|e2f2 g3e c3e|e3d f3d A4|A3B A3G F3G|
+A3d f4f4|e2f2 g3f e3d| c3ed8::c3e c3e c3e|d3f d3f d3f|
+e3f g3f e3d|c2Bc d3BA4|A3B A3G F3G| A3d f4f4|e3f g3f e3d|c3e d8:|

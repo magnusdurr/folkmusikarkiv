@@ -527,6 +527,7 @@ d4E3/F/ED|E4 zeef|g4 zggf| e2f2 g2e2| A4B2c2| e2dd d2d2|1 d4z4:|2d4z2||
 
 X:525
 T:Vals # 525
+T: efter fadern
 M:3/4
 L:1/8
 K: C
@@ -537,3 +538,93 @@ C2E2G2| e3de2|C2E2G2|d3cd2| g2a2a2| b3ag2| def2B2| c4z2:|
 a4f2| c4A2|cd ef ga| b4z2| d'3c' bg|e3c Bc|e3d BG| F4z2:|
 |: A2B2c2| c3dc2| f2e2d2|(cd) cB c2|g2e2c2|d2B2G2|f2c2A2|(FG) FEF2|
 A2B2c2| c3dc2| f2e2d2|(cd) cB c2|g2 (ge) cA| d2(dB) GE| FF EF Ac|f4z2:|
+
+X:526
+T:Polska # 526
+T: efter fadern
+Q: 110
+M:3/4
+L:1/16
+K: D
+DEFG A2d2 c2d2|(ef)ge (cd)ec d4| B2g2 A2f2 G2e2|(dc)df (ed)cB AGFE|
+(DE)FG (AB)cd f2d2|(dc)BA A2fe dcB2| A2Bc (dc)de f2d2|(dc)BA B4A4:|
+|:AGFG AGFG A2d2|(ed)cd (ed)cd e4| (GF)EF (GF)EF G2G2|
+(FA)df (ge)ce d4| (DF)Ac d2A2 f2d2|(cA)ce g2e2 c2A2|
+(de)dc (Bc)BA (GF)GB| (AG)FG E2EC D4:|
+
+X:527
+T:Polska # 527
+T: efter fadern
+Q: 110
+M:3/4
+L:1/16
+K: C
+CE| G2c2 c2c2 c4| d3c BGBd f2d2| edef g2g2 e2c2| dedB cBAG
+FEDC| C2cc c2c2 c4|  d3c BGBd f2d2| edef g2g2 e2c2| (df)dB B2c2 c2:|
+|: ef| g2C2 C2g2 g2fe| f2B,2 B,2f2 f2ed| e2C2 C2e2 e2dc| c2(Bc) dcBA GFED|
+C2cc c2c2 c4| d3c BGBd f2d2| edef g2g2 e2c2| (df)dB B2c2 c2:|
+
+X:529
+T:Polska # 529
+T: efter fadern
+Q: 110
+M:3/4
+L:1/16
+K: D
+d2de c2c2 d4| (ef)ed c2d2 e2f2| (gf)ga g2f2 e2d2| (cd)ec d2A2 F2A2|
+d2de c2c2 d4| (ef)ed c2d2 e2f2| (gf)ga g2f2 e2d2| (cd)ec d8:|
+|: f2f2 f2f2 f2f2| (DF)AF (DF)AF (DF)AF| D3g g2g2 g2b2| b2gb a4 a3a|
+a2ba g2f2 e2d2| (cd)ec d8:|
+
+X:530
+T:Polska # 530
+Q: 110
+M:3/4
+L:1/16
+K: G
+D2| D3G (Bc)BA G3B|B3d (de)dc B3d| d3e (ef)ed c2g2|f3g (ab)af d2:|
+|: d2| d3f e2e2 e2e2| g2gf a2af d3d|d3f e2e2 e2e2 | g2gf a2fa g3e|
+e3d B2B2 c2B2| (BA)GF G6:|
+
+X:531
+T:Vals # 531
+M:3/4
+L:1/8
+K: G
+Q: 160
+B2dd dd| d2B2G2| G2cd cB| c2e2g2|fg fe fg f2e2d2| ga gf ga|
+g2d2B2| B2dd dd| d2B2G2| G2cd cB| c2e2g2|fg fe fg f2e2d2| ga gf ga|1 g4z2:|
+|2 g4 ba|:b2d2ba| b2d2bb| b2ag fg| a4f2|a2dd fa|a2dd fa|a2gf ga|1 g4ba:|2g4z2||
+
+X:532
+T:Vals # 532
+T: efter fadern
+M:3/4
+L:1/8
+K: G
+Q: 160
+G2B2d2|g3gg2|fg ag fe|e4d2|Gc ee e2| GB dd d2|DF AD FA|
+|1G4z2:|2 G4G2|: GB dG Bd| Gc eG ce| df ad fa| ag fe dB|
+GB dG Bd| Gc eG ce| df ad fa|1 g4G2:|2g4z2||
+
+X:533
+T:Vals # 533
+M:3/4
+L:1/8
+K: G
+Q: 180
+B3AB2|c3Bc2|d3ed2|B2D2d2|B3GD2|B2D2d2|B3GD2|B3AB2|
+c3Bc2|d3cd2|e4z2|e2c2A2|F2E2F2| GF GB AF|1G4z2:|2G4e2||
+|:ed Bd BG| ed Bd BG|ed Bd cA| F4F2| A2f3f|f3ee2|A2f3e|
+d3d dc:: Bcd2G2|GAB2D2|DE FG AB| c4c2| ce eF FA| A4 c2|
+cB Bd GB| D4c2| Bc d2G2| GAB2D2|DE FG AB c4c2|ce ec Ac|
+cB Bd GB| BA Ac FA| G4z2:|
+
+X:534
+T:Visa # 534
+M:3/4
+L:1/8
+K: G
+Q: 120
+D|DD GG FG|Az2zD|Dd cB AG|BGz2zG|BG GG AB|
+cEz2zE|DD DD EF|AGz4||

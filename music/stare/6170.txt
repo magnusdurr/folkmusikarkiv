@@ -1,0 +1,8 @@
+X: 61
+T: Pollonesse #61
+M: 3/4
+L: 1/16
+K: Bb
+Q:120
+|B2df b2fe d2cB| B2g2 g4 f4| f2bf d2fd B2Bd|cdcB ABcA F4|
+B2df b2fe d2cB|B2g2 g4 f4|f2bf d2fdB2Bd| c4c4B4:|

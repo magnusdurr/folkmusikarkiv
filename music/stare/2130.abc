@@ -1,0 +1,100 @@
+X: 21
+T: Pollonesse #21
+M: 3/4
+L: 1/16
+K: Dm
+Q:120
+d2d2 e2ge f4|f2f2 gfef e2A2|d2d2 e2ge f4|e2dc d4D4:|
+f2a2 g2ab a4|f2a2 a2gf e2d2|f2a2 g2ab a4|f2a2 a2gf e2d2|
+d2d2 e2ge f4|e2dc d4D4:|
+
+X: 22
+T: Pollonesse #22
+M: 3/4
+L: 1/16
+K: D
+Q:120
+F2G2 A4 c2BA|G2AB A8|d2f2 d4c4|d2e2 g2f2 e2d2|d4A8|
+F2G2 A4 d2BA| G2AB A8|F4E4D4::[d4f4][c8e8]|d2e2 g2f2 e2d2|c4A8|
+F2G2 B4 d2BA|G2AB A8|F4E4D4:|
+
+X: 23
+T: Pollonesse #23
+M: 3/4
+L: 1/16
+K: C
+Q:120
+c2cd e2ef g4|e2ce d2Bd c4|E2EG F2FA G2Gc| BcdB c4C4:|
+efed c2c2 c4|d2dc B2B2 B4| c2cB ABcd e2c2| BAG^F G4 G,4:|
+
+X: 24
+T: Pollonesse #24
+M: 3/4
+L: 1/16
+K: D
+Q:120
+d2B2c4d4|efed c2d2 e2f2|gagf efed c2d2| efed dedc A4|
+d2B2c4d4|efed c2d2 e2f2|gagf efed c2d2|egec d4D4:|
+a2F2 F2a2 a2gf g2E2 E2g2 g2fe| f2D2 D2f2 f2ed|c2d2 edcB A4|
+a2F2 F2a2 a2gf g2E2 E2g2 g2fe| f2D2 D2f2 f2ed|cdec d4D4:|
+
+X: 25
+T: Pollonesse #25
+M: 3/4
+L: 1/16
+K: D
+Q:120
+defg f2a2 f2a2|f2a2 a2gf g4|A2(ce) A2(ce) A2(ce)|A2(ce) g2fe f4|A2ce g2fe f4|d2(de) f2(fg) a2f2|g2ge e4d4:|
+fedc d2f2 d2f2|edcB c2e2 c2e2|d2de f2d2 c2B2|A2A^G A4A,4:|
+
+X: 26
+T: Pollonesse #26
+M: 3/4
+L: 1/16
+K: D
+Q:120
+B2FB d2d2 d4|d2Bd f2f2 f4|f2af d2fd B2d2|cdcB ABAG F4|B2FB d2d2 d4|d2Bd f2f2 f4|f2ga b2a2 g2f2|cf=eg g4f4:|
+|:f2(ga) b2a2 g2f2|e2d2 a2g2 f2e2|d2c2 a2g2 f2e2|c2B2 f2e2 d2c2|
+B2FB d2d2d4|d2Bd f2f2f4|f2ga (ba)gf (gf)ed|(ed)cB (AB)cA B4:|
+
+X: 27
+T: Pollonesse #27
+M: 3/4
+L: 1/16
+K: F
+Q:120
+c2e2 f4 a2f2|d2e2 f4 g2e2|c2e2f4a2f2|c2B2 c8:|
+|:F2A2 B4 d2B2|G2A2B4c2A2|F2A2 c2b2 a2g2|agfg f8:|
+|:c2c2 f2f2 d2d2|c2B2 cBAB A4|c2c2 f2f2 d2d2|c2B2 cBAB A4|
+c2e2 f2g2 a2f2|g2a2b4b2g2|e2e2 f2g2 a2a2|gagf/g/ f8:|
+
+X: 28
+T: Pollonesse #28
+M: 3/4
+L: 1/16
+K: C
+Q:120
+c2cG E2EC G,4|E2EG c2ce g4|a2fa g2eg f2de|fedc BcdB G4|
+c2cG E2EC G,4|E2EG c2ce g4|a2fa g2eg f2de|edcB d4c4:|
+gece gece g2g2|dBGB dBGB d2d2|cAFA cAFA c2c2| GECE GECE G2G2|
+a2fa g2eg f2de|edcB d4c4:|
+
+X: 29
+T: Pollonesse #29
+M: 3/4
+L: 1/16
+K: C
+Q:120
+c2e2 d2e2 c2e2|d2ef e8|c2e2 d2e2 c2e2|B2c2 d2BcA4|c2e2 d2e2 c2e2|d2ef e4 g2b2|a2g2e4g2f2|[1d4e8:|[2 d4e6|]
+e2|:d2c2A4c2e2|d2Bd c2A2 c2e2|d2Bd c2A2 c2B2|G4A8:|
+
+X: 30
+T: Pollonesse #30
+M: 3/4
+L: 1/16
+K: D
+Q:120
+d4|defd DEFG A2d2|cdec ABcd e2g2|f2df afdf afdf|gece gece aece|
+d2Bd fdBd ecAc|dBGB A4G4::a4|cBAG A2E2 C2A,2|gfga b2g2 f2e2|
+dcde d2A2 F2D2|d2cd e2de f2ed|efge (gfed) c2BA|D2CD E2DE F2ED|
+EFGE GFED C2A,2|DEFG ABcd e2g2|fece d4D4:|

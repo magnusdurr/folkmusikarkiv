@@ -1,0 +1,87 @@
+X: 31
+T: Pollonesse #31
+M: 3/4
+L: 1/16
+K: F
+Q:120
+F2FG F2C2 F2G2|A2AB A2F2 A2B2|B2dc B2A2 G2F2|E2EF GEFD C4|
+F2FG F2C2 F2G2|A2AB A2F2 G2A2|B2A2 B2d2 c2B2|A2G2 G4 F4:|
+c2cd c2G2 c2d2| e2ef e2c2 d2e2|f2af f2e2 d2c2|=B2Bc d2B2 G4|
+c2cd c2G2 c2d2| e2ef e2c2 d2e2|f2e2 f2a2 g2f2|e2d2 d4 c4:|
+
+X: 32
+T: Pollonesse #32
+M: 3/4
+L: 1/16
+K: Am
+Q:120
+c2e2 d2e2 c2e2|d2ef e8|c2e2 d2e2 c2e2|B2c2 d2Bc A4|
+c2e2 d2e2 c2e2|d2ef e4g2b2| a2g2 e4 g2f2|d4e8:|
+d2c2 A4 c2e2| d2Bd c2A2 c2e2| d2Bd c2A2 c2B2|G4A8:|
+
+X: 33
+T: Pollonesse #33
+M: 3/4
+L: 1/16
+K: D
+Q: 110
+d2A2 F2FD G2GE|AFGE FDCD A,4|DEFD EFGE FGAB|ADEF GFGA BABc|
+d2A2 F2FD G2GE|AFGE GEFD A,4|DEFD EFGE FGAB|AFGE E4 D4:|
+a2e2 dcde dcBA|aece d4c4|aecA EAce dcBA|aece d4c4|A2ag a2e2 dcdB|cA^GB A4A,4:|
+
+X: 34
+T: Pollonesse #34
+M: 3/4
+L: 1/16
+K: C
+Q:120
+GABc B4A4|GBdg d4c4|B2d2 d2c2 c2B2|B2AG AGAB A4|
+GABc B4A4|GBdg d4c4|B2Bd c2cA d2B2|BAGA G4G,4:|
+DFAB c2c2 c2c2|BGBc d2d2d4|g2gf g2a2 b2d2|edcB B4A4:|
+
+X: 35
+T: Pollonesse #35
+M: 3/4
+L: 1/16
+K: D
+Q:120
+defg a2a2 a2DE|F2EF G2FG A4|d2de f2f2 d4|cdef g2g2 e4|defg a2a2 a2DE| F2EF G2FG A4| Bdce dfeB cABG|FdEc d4D4:|
+A2AB c2cA d2dB|cAdB cAdB c4|d2de f2fd g2ge|fdge fdge dcBA|B2BA G2GF E4|FDGE FDGE C2A,2|B,2fg a2a2 a2DE|
+F2EF G2FG A4|Bdce dfec dABG|FdEc d4D4:|
+
+X: 36
+T: Pollonesse #36
+M: 3/4
+L: 1/16
+K: D
+Q:120
+|f2f2 g2g2 f2f2| efge dcBc d2d2|F2A2 G2B2 F2A2| E2F2GFEF D2D2|
+|f2f2 g2g2 f2f2| efge dcBc d2d2|F2A2 G2B2 F2A2| E2G2 G2F2 D4:|
+|:A2a2 a2ef g2f2| d4f2eg f2a2| baec d2A2 F2D2| A2a2 a2ef g2f2|
+d4f2eg f2a2| baec d2A2 F2D2| A2a2 a2ef g2f2| d4f2eg f2a2| baec d4 D4:|
+
+X: 37
+T: Pollonesse #37
+M: 3/4
+L: 1/16
+K: F
+Q:120
+|F2GA Bcde f2a2| g2gb e2eg f4| d2b2 c2a2 B2g2|Acfa gfed c4|fgAc fefg a2f2|
+eg=Bd c2f2 fedc| d^cde fefg a3f| edcB c4C4:|
+cBcd c4ABcA|B2e2 gfef g4|BABc B4G2B2|A2c2 fage f4|
+FAce f2c2 afef|gfga babg fedc|f2fe d2dc B2BA|GFGA G4F4:|
+
+
+X: 39
+T: Pollonesse #39
+M: 3/4
+L: 1/16
+K: Eb
+Q:120
+c2|:cBcd c2G2 G2g2|g2fg f2ef e2d2|cBcd c2[B2G2] [B4G4]|GFGA G2F2 E2D2|
+EDCB, C2E2 G2g2| edcB B4 c4::e4 B2BA G4|E2EG F2EF G4|B2eB G2BG F4|
+B,DEG FEDC B,2G,2|G2c2 c2B2 c2d2|edeg e2dc B2G2|G2c2 c2B2 c2d2|edeg e2dc B2G2
+cBcd c2G2 G4|GFGA G2F2 E2D2|EDCB, C2E2 G2g2|edcB B4 c4:|
+|:c2ec A2cA E4|CDEA dcBA c2B2|B2dB G2BG D4|A,CEA cBAG B2A2|
+A,B,CD EFGA BcdB|eded e2G2 A2E2|agag fedc BAGF|EGBe f3g e2c2:|
+//rep 4...

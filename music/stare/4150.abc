@@ -1,3 +1,44 @@
+X: 41
+T: Pollonesse #41
+M: 3/4
+L: 1/16
+K: Gm
+Q:120
+|(GA)(Bc) d4 g2a2|b2(bg) a2af g2a2|b2(bg) a2af g2a2|b2(bg) a2af g4|
+d2e2 d2c2 B2A2|G2(GB) AGFE DEFG|(GA)(Bc) d4 g2a2|b2(bg) a2af g2a2|
+b2(bg) a2af g2a2|b2(bg) a2af g4|d2e2 d2c2 B2A2|BcdB G4G,4:|
+|:[D4B4](cB)(AB) (cB)(AB)|(d2e2) (f2g2) (a2b2)|f3e d2de d4|(d2c2) (c2B2) (A2F2)|
+G2(GB) AGFE D4| d2(dB) c2(cA) B2(Bc)|cBAG FAG2 G,4:|
+N: Sista takten är en tolkning av noterna, enligt noterna ska näst sista tonen vara
+N: en fjärdedel vilket gör att takten inte går jämt ut. Pollonessen står nedtecknad
+N: i Dm men jag har lagt till ett b-förtecken då jag tycker det låter bättre.
+
+X: 42
+T: Pollonesse #42
+M: 3/4
+L: 1/16
+K: D
+Q:110
+|dA(FA) D2(DF) A,2(A,E)|D2(DF) E2(EG) F4|(FAdf) e2(eg) f2(fa)| g2(gb) (agfe) f2d2|
+|dA(FA) D2(DF) A,2(A,E)|D2(DF) E2(EG) F4|(FAdf) e2(eg) f2(fa)| agec d4D4:|
+|:FAdf e2(eA) f2(fA)|g2(gb) (agfe) f2d2|FAdf eAeA fAfA|gAgA (agfe) f4|
+|dA(FA) D2(DF) A,2(A,E)|D2(DF) E2(EG) F4|(FAdf) e2(eg) f2(fa)| agec d4D4:|
+|:dAFA DFDF A,EA,E|DFDF EGEG F4|FDEF GABc defg|agaf gfge fefd|
+|dAFA DFDF A,EA,E|DFDF EGEG F4|FDEF GABc defg|agec d4D4:|
+|:FAdA EAeA FAfA|GAgA EAeA FAeA|FAdA EAeA FAfA|GAgA EAeA FAeA|
+|dAFA DFDF A,EA,E|DFDF EGEG F4|FDEF GABc defg|agec d4D4:|
+
+X: 43
+T: Pollonesse #43
+M: 3/4
+L: 1/16
+K: G
+Q:110
+|[g3B3D3G,3]d BGBA G4|BGAB cdef d4|fdef g2e2 a2f2|ge^ce d4D4|
+|g3d BGcA G4|BGAB c2e2 d4|BGAB cdef g3d|cAFD G4G,4:|
+|:g2ab a3g f3d|efge c2e2 d4|c2de d2c2 B2G2|ABcA F2A2 G4|
+|B,4 ^C4 D4|BAGB c2e2d4|BGAB cdef g2B2|cBcA G4G,4:|
+
 X: 44
 T: Pollonesse #44
 M: 3/4

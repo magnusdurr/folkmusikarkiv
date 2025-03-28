@@ -71,6 +71,14 @@ eg=Bd c2f2 fedc| d^cde fefg a3f| edcB c4C4:|
 cBcd c4ABcA|B2e2 gfef g4|BABc B4G2B2|A2c2 fage f4|
 FAce f2c2 afef|gfga babg fedc|f2fe d2dc B2BA|GFGA G4F4:|
 
+X: 38
+T: Pollonesse #38
+M: 3/4
+L: 1/16
+K: D
+Q:120
+A2Bc d2c2 d2e2|f2ef g2f2 e2d2|c2d2 e2d2 c2B2|A2Bc d2c2 d2e2|
+f2ef g2f2 e2d2|c2e2 d4D4:|
 
 X: 39
 T: Pollonesse #39
@@ -78,10 +86,25 @@ M: 3/4
 L: 1/16
 K: Eb
 Q:120
-c2|:cBcd c2G2 G2g2|g2fg f2ef e2d2|cBcd c2[B2G2] [B4G4]|GFGA G2F2 E2D2|
-EDCB, C2E2 G2g2| edcB B4 c4::e4 B2BA G4|E2EG F2EF G4|B2eB G2BG F4|
+c2|cBcd c2G2 G2g2|g2fg f2ef e2d2|cBcd c2[B2G2] [B4G4]|GFGA G2F2 E2D2|
+EDCB, C2E2 G2g2| edcB B4 c2::d2|e4 B2BA G4|E2EG F2EF G4|B2eB G2BG F4|
 B,DEG FEDC B,2G,2|G2c2 c2B2 c2d2|edeg e2dc B2G2|G2c2 c2B2 c2d2|edeg e2dc B2G2
-cBcd c2G2 G4|GFGA G2F2 E2D2|EDCB, C2E2 G2g2|edcB B4 c4:|
-|:c2ec A2cA E4|CDEA dcBA c2B2|B2dB G2BG D4|A,CEA cBAG B2A2|
-A,B,CD EFGA BcdB|eded e2G2 A2E2|agag fedc BAGF|EGBe f3g e2c2:|
-//rep 4...
+cBcd c2G2 G4|GFGA G2F2 E2D2|EDCB, C2E2 G2g2|edcB B4 c2:|
+|:c2|c2ec A2cA E4|CDEA dcBA c2B2|B2dB G2BG D4|A,CEA cBAG B2A2|
+A,B,CD EFGA BcdB|eded e2G2 A2E2|agag fedc BAGF|EGBe f3g e2:|
+B2|B2GE e2dc B4|agfe defd B2A2|G2FE c2BA G4|EGBe c2BA A2G2|
+G,B,EG A,CFA F2B2|AGFE DEFD B,2A,2|G,2B,2 E2G2 B2e2|AGFE F2B2 E2:|
+
+X: 40
+T: Pollonesse #40
+M: 3/4
+L: 1/16
+K: Bb
+Q:120
+B2ba b2f2 d2B2|E2gf g2E2 D2^f2|C2ed e2C2 B,2d2|d2cB A2B2 c2F2|
+B2ba b2f2 d2B2|E2g^f g2E2 D2f2|C2ed e2C2 B,2d2|ecBA B4B,4:|
+|:d2dc d2B2 dfga|bagf =efed c2B2|A2c'2 B2b2 c2a2|bgf=e f2g2 f=edc:|
+B2Bc d2de f4|fbag fedc B4|B2gf e2ed c2cB|FBAB FEDC B,4|
+FEDE F2e2 d2e2|FEDE F2B2 A2B2|F2gf e2d2 c2B2|Fedc c6c2:|
+|:cBAB c2f2 e2f2|Bbag fedc d2B2|FBAB dBAB fBAB|FBAB FEDC D2B,2|
+FEDE F2e2 d2e2|FEDE F2B2 A2B2|FEDC Bgfe d2cB|Fedc c4 B4:|

@@ -50,6 +50,26 @@ fgfe [d2G2][d2G2] [d2G2][d2G2]|g2g2 gfed [G4e4]|[Ge]fed [F2c2][F2c2] [F2c2][F2c2
 [D4B4] [D2B2]dc [D2B2]dc|[D2B2][D2B2] [F2c2][F2c2] [F4d4]|[F4c4] [F2c2]ed [F2c2]ed|[F2c2][F2c2] [F2d2][F2d2] [G4e4]|
 dBdf bfdf fece|dBdf bfdf fece|BAcB dced fegf|=efec [c6F6] B2:|
 
+X: 55
+T: Pollonesse #55
+M: 3/4
+L: 1/16
+K: Bb
+Q:120
+B,DFA B4d4|[F2c2][Fc]d B4 d2f2|[g2e2][g2e2] [f2d2][f2d2] [F2c2][F2c2]|B2Bd cBAG FEDC|
+B,DFA B4d4|[F2c2][Fc]d B4 d2f2|[g2e2][g2e2] [f2d2][f2d2] [F2c2][F2c2]| dcBA B4 B,4:|
+f2ga b2ag f2ed|g2gf e2ed [F4c4]|A2ce g2fe d2cB|A2AB cBAG FEDC:|
+
+X: 56
+T: Pollonesse #56
+M: 3/4
+L: 1/16
+K: Bb
+Q:120
+B2df b2fe d2cB|B2g2 g4f4|f2bf d2fd B2Bd|cdcB BcdB F4|
+B2df b2fe d2cB|B2g2 g4f4|f2bf d2fd B2Bd|F2c2 c4 B4:|
+DBFB DBFB DBFB|DBFB GFED E4|EBFB EBFB EBFB|ABcd cBAG F4:|
+
 X: 57
 T: Pollonesse #57
 M: 3/4
@@ -67,9 +87,9 @@ M: 3/4
 L: 1/16
 K: Bb
 Q:100
-|GABc d4 gfga|bgdg bagf gfga|bgdg bagf g4|d4 c2cA B2Bd|c2cA BABG A2GD|
-GABc d4 gfga|bgdg bagf gfga|bgdg bagf g4|d2de c2cd B2Bc|
-BAGF GABc defg| BAGF GABc defg|BAGF G4G,4:|
+|GABc d4 gfga|bgdg bagf gfga|bgdg bagf g4|d4 c2cA B2Bd|
+c2cA BABG A2GD|GABc d4 gfga|bgdg bagf gfga|bgdg bagf g4|
+d2de c2cd B2Bc|1BAGF GABc defg:|2BAGF G4G,4|]
 |: B4cBAB cBAB|f2c2 a2c2 b4|babf gfgf edcB|B2gf edcB BAGF|GABc d4 gfga|
 bgdg bagf gfga|bgdg bagf g4|d2de c2cd B2Bc| BAGF G4G,4:|
 d4 c2cA B2Bd|c2cA BABG A4|d4c2cA B2Bd|BAGF G4G,4:|
@@ -83,3 +103,12 @@ Q:110
 f2af c2dc B2cB|A2A2 cBAB c4|f2af c2dc B2cB|A2A2 cBAB c4|d3B f2fd B2Bd|
 c2cB A2AB c4|d3e f2fd B2Bd|c2cB A2AB c4|a2f2 b2g2 fedc|cdef g4f4:|
 |:g2ga g2ef gfed|c2cd e2ef g2ga|g2ga gfef gfed|c2cd c2cd c4:|
+
+X: 60
+T: Pollonesse #60
+M: 3/4
+L: 1/16
+K: F
+Q:110
+e2ag a2f2 e4|e2ge f2c2 d4|e2ag a2f2 e2fd|c2dB A2BG F2GE| D2z2 C2z2 A,4:|
+A2B2 A2G2 F2E2|E2F2 D2z2 A,2z2|e2f2 e2g2 f2a2|fecd d4 D4:|

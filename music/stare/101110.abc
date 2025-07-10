@@ -10,6 +10,16 @@ DEFG A2A2 A4|GFED B2B2 A4|A2 g4f4 (ed)|cdec d4D4:|
 |:ABcd e2e2 e4|dcBA g2f2 e4|ABcd e2e2 e4|dcBA g2f2 e4|
 DEFG A2A2 A4|GFED B2B2 A4|A2 g4f4 (ed)|cdec d4D4:|
 
+X: 102
+T: Pollonesse #102
+M: 3/4
+L: 1/16
+R: Pollonesse
+K: C
+Q: 110
+c2cd e2ef g4| e2ce d2Bd c4|E2EG F2FA G2Gc|BcdB c4 C4:|
+efed c2c2 c4|d2dc B2B2 B4|c2cB ABcd e2c2|BAG^F G4 G,4:|
+
 X: 103
 T: Pollonesse #103
 M: 3/4
@@ -20,6 +30,17 @@ Q: 110
 d2e2 f4f4|(f2b2) (b2d'2)(d'2f2)|gfed e4e4|e2a2 a2c'2 c'2e2|dcAc B2F2 D2B,2| dcAc B2F2 D2B,2|
 B,FcF B,FcF B,FcF|B,FdF B,FdF B,FdF|B,FcF B,FcF B,FcF|B,FdF B,FdF B,FdF|
 d2e2 f2f2 f2B'2|d'c'ba a4b4:|
+
+X: 105
+T: Pollonesse #105
+M: 3/4
+L: 1/16
+R: Pollonesse
+K: G
+Q: 110
+d2g2 g2f2 f2e2| e2de d6 c2|B2AB c4B4|A4 G8:|
+G2B2 B2AG A4|A2c2 c2BA B4|B2d2 d2cB c4|c2e2 e2d^c d4|
+d2g2 g2f2 f2e2| e2de d6 c2|B2AB c4B4|A4 G8:|
 
 X: 107
 T: Pollonesse #107

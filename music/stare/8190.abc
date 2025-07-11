@@ -1,0 +1,63 @@
+X: 81
+T: Pollonesse #81
+M: 3/4
+L: 1/16
+K: D
+Q:120
+d2f2 e2d2 cdcB|A2AB A2G2 F2D2|D2B2 B2G2 G2E2|E2A2 A2F2 F2D2|
+D2B2 B2G2 G2E2|E2A2 A2F2 F2D2|DEFG ABcd e2g2|fedc d4 D4:|
+A2f2 f2d2 d2B2|B2e2 e2c2 c2A2|A2f2 f2d2 d2B2|B2e2 e2c2 c2A2|D2B2 B2G2 G2E2|
+E2A2 A2F2 F2D2|D2B2 B2G2 G2E2|E2A2 A2F2 F2D2|DEFG ABcd e2g2|fedc d4 D4:|
+
+X: 82
+T: Pollonesse #82
+M: 3/4
+L: 1/16
+K: D
+Q:120
+g2|:fafd eaec dfdA|BdBd cece d4|ABcd efge gfed|cdBc ABAG F2g2|
+fafd eaec dfdA|BdBd cece d4|ABcd efge gfed|1cdec d4 D2 g2:|2cdec d4 D2 a2|]
+|:afdA F2a2 bagf|gecA E2g2 g4|fdfa g2f2 e2d2|cdBc ABAG F2g2|
+fafd eaec dfdA|BdBd cece d4|ABcd efge gfed|1cdec d4 D2 a2:|2cdec d4 D4|]
+
+X: 83
+T: Pollonesse #83
+M: 3/4
+L: 1/16
+K: D
+Q:120
+d2fd e2ge f4|d2A2 F2AF D4|d2fd e2ge f2g2|agfe d4 D4:|
+f2d2 D2d2 f4| g2e2 A2g2 g4|g2e2 g2g2 g4|d2fd e2ge f2g2|agfe d4 D4:|
+
+X: 84
+T: Pollonesse #84
+M: 3/4
+L: 1/16
+K: G
+Q:120
+D2GF G2B2 D2c2|B2AB cBAG F2ED|D2GF G2g2 D2c2|BAGF G4 G,4:|
+[G,DBg]4 ABcA B2AG|[G,DBg]4 ABcA B2AG|D2GF G2g2 D2c2|BAGF G4G,4:|
+d2c2 Bcde d2g2|{a}g2fe d2c2 B4|[G,DB]4 [G,DB]4 [G,DB]4|{c}B2AB cBAG F2ED|
+[G,DB]4 [G,DB]4 [G,DB]4|B2AB cBAG F2ED|D2GF G2g2 D2c2|BAGF G4 G,4:|
+
+X: 85
+T: Pollonesse #85
+M: 3/4
+L: 1/16
+K: D
+Q:120
+G,2B,2 D4 F4|G2B2 A4 c4|d2e2 f2ef g2e2|e2d2 cdec A4|
+G,2B,2 D4 F4|G2B2 A4 c4|d2e2 f2ef g2e2|e2c2 d4 D4:|
+f4 d4 B2d2|cdec A4F4|G4 E4 G4|FGAF D4 G,4|
+f4 d4 B2d2|cdec A4F4|G2E2 F2A2 d2f2|bgec d4 D4:|
+
+X: 86
+T: Pollonesse #86
+M: 3/4
+L: 1/16
+K: G
+Q:120
+G2BG A2cA B4|G2D2 B,2DB, G,4|G2GB A2Ac B2Bd|ecAF A4 G4:|
+B2G,2 c2G,2 d2G,2|d2Bd c2Ac B2G,2|B2G,2 c2G,2 d2G,2|d2Bd c2Ac B2G,2|
+d3B cdef g4| e3c Bcde d4|B,2d2 A,2c2 G,2B2|dcAF A4 G4:|
+

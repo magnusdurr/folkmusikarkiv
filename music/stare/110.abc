@@ -4,9 +4,9 @@ M: 3/4
 L: 1/16
 K: D
 Q:110
-|:d2A2 F2A2 d2f2|f2edc4A4|d2ef g2f2 e2d2|dcBA B2B2 A4|d2A2 F2A2 d2f2|
+|:d2A2 F2A2 d2f2|f2edc4A4|d2ef g2f2 e2d2|dcBA [E2B2][E2B2] A4|d2A2 F2A2 d2f2|
 f2edc4A4|d2ef g2eg f2df| e2ce d8::a2f2 f2d2 d4|a2f2 g4e4|f2ef g2f2 e2d2|
-dcBA B2B2A4|a2f2 f2d2 d4|a2f2 g4e4|d2ef g2eg f2df|e2ce d8:|
+dcBA [E2B2][E2B2] A4|a2f2 f2d2 d4|a2f2 g4e4|d2ef g2eg f2df|e2ce d8:|
 
 X: 2
 T: Pollonesse #2
@@ -14,9 +14,9 @@ M: 3/4
 L: 1/16
 K: D
 Q:110
-|:dcdA FDFAd4|edcdB4c4|d2dfe4dcBA|d2df edcB ABcA|
-dcdA FDFAd4|edcdB4c4|d2dfe4d4|cece d4D4:|
-|:DFAF DFAF DFAF|DGBG DGBG DGBG|Acec Acec Acec|d2df edcB ABcA:|
+|:dcdA FDFAd4|edcd [E4B4] c4|d2dfe4dcBA|d2df edcB ABcA|
+dcdA FDFAd4|edcd [E4B4] c4|d2dfe4d4|cece d4D4!fine!:|
+|:DFAF DFAF DFAF|DGBG DGBG DGBG|Acec Acec Acec|d2df edcB ABcA yy!D.C.!:|
 
 X: 3
 T: Pollonesse #3

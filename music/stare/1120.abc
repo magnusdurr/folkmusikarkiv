@@ -4,8 +4,10 @@ M: 3/4
 L: 1/16
 K: D
 Q:120
-d2dc d2f2 A4|B2BA B2d2 F4|G2GF E2g2 f2ed| d2cd edcB A4| d2dc d2f2 A4|B2BA B2d2 F4|G2GF E2g2 f2ed| cdec d4 D4:|
-f2fe d2f2 a2f2|efed c2e2 a2e2|d2dc B2c2 d2f2|edcB B4A4|BcBA G2B2 d2B2|ABAG F2A2 d2F2|G2GF E2g2 f2a2|aedc d4D4:|
+d2dc d2f2 A4|B2BA B2d2 F4|G2GF E2g2 f2ed| d2cd edcB A4|
+d2dc d2f2 A4|B2BA B2d2 F4|G2GF E2g2 f2ed| cdec d4 D4:|
+f2fe d2f2 a2f2|efed c2e2 a2e2|d2dc B2c2 d2f2|edcB B4A4|
+BcBA G2B2 d2B2|ABAG F2A2 d2F2|G2GF E2g2 f2a2|aedc d4D4:|
 
 X: 12
 T: Pollonesse #12

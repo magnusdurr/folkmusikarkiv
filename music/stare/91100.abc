@@ -38,6 +38,20 @@ A,DFD A,DFD A,DFD|A,EGE A,EGE A,EGE|A,DFD A,DFD A,DFD|A,EGE A,EGE A,EGE|
 DFBF DFBF DFBF|Gcec Gcec Gcec|DFBF DFBF DFBF|Gcec Gcec Gcec|
 c2Bc d2cd c2BA|FABA G4 G,4:|
 
+X: 94
+T: Pollonesse #94
+M: 3/4
+L: 1/16
+R: Pollonesse
+K: Eb
+Q: 110
+B,EDE GEDE BEDE|cEDE eEDE GEDE|B,EDE GEDE BEDE|cEDE eEDE GEDE|
+(3G,2E2B2 (3B2E2G,2 (3G,2E2B2| (3A,2E2c2 (3c2E2A,2 (3A,2E2c2|e2ed c2cB AGFE| D2EF F4 E4:|
+|:(3D2B2f2 (3f2B2D2 (3D2B2f2|(3E2B2g2 (3g2B2E2 (3E2B2g2|b2ba g2gf edcB|B2=AB cBAG F2E2|
+=ABAG dBAB fBAB|gB=AB bBAB dBAB|=ABAG dBAB fBAB|gB=AB bBAB dBAB|
+b2ba g2gf edcB|=ABcA B4 B,4|B4 GEGB e2d2|c4 C2c2 C2c2|B2=ABe2B2 G2E2|
+[FB,]2[FB,][FB,] [FB,]2[FB,][FB,] [FB,]4|E2EG F2F=A G2FE|A2FD F2GA G2FE|e2ed c2cB AGFE|B,EDF E8:|
+
 X: 95
 T: Pollonesse #95
 M: 3/4
@@ -65,6 +79,30 @@ B2FB d2d2 d4|d2Bd f2f2 f4|b2ba g2gb a2gf|cf=eg f8:|
 f2fa g2gf e2ed cdef g2e2 edcB|c2eg f2fe d2dc|Bcde f2e2 dcBA|
 B2FB d2d2 d4|d2Bd f2f2 f4|b2bf g2ge d2cB|FBAc B8:|
 N: Jämför nr. 26
+
+X: 98
+T: Pollonesse #98
+M: 3/4
+L: 1/16
+R: Pollonesse
+K: F
+Q: 110
+F2GA Bcde f2a2|gaeg fefg f4|ddbd ccac BBgB|Acfa gfed c4|
+fgAc fefg a2f2|egBd c2gf fedc|d2de fefg a2f2|efcB c4C4:|
+|:cBcd c2c2 ABcA|d2e2 gfef g4|BABc B2A2 G2AB|A2c2 fage f4|FAce f2c2 afcf|
+g2ga b2bg fedB|f2fe d2dc B2BA|GFGA F4F4:|
+N: Jämför nr. 37 & 76
+
+X: 99
+T: Pollonesse #99
+M: 3/4
+L: 1/16
+R: Pollonesse
+K: C
+Q: 110
+c2EF G2GA G4|ECEG GFDF E4|c2EG c2ce d2df|eceg afed cBAG|
+c2EF G2GA G4|ECEG GFDF E4|c2ce d2df e2eg| afed d4c4:|
+|:g4 gfed c2a2|agfe fedc d4|G,2f2 edcB c4| dfda g4f4|edcB c4C4:|
 
 X: 100
 T: Pollonesse #100
